@@ -1,7 +1,7 @@
 ## About Project
-Demo: https://nightlight.nightlight.asia/
+Demo: https://nightlight.lychidung.info/
 
-Demo Admin Pages: https://nightlight.nightlight.asia/Admin/admin.php
+Demo Admin Pages: https://nightlight.lychidung.info/Admin/admin.php
 
 Username: 10001
 
